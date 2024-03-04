@@ -15,7 +15,9 @@ echo "Variabel d: {$d} <br>";
 echo "Variabel e: {$e} <br>";
 
 var_dump($e);
-
+/*
+Mengimplementasikan isi tipe data
+*/
 $nilaiMatematika = 5.1;
 $nilaiIPA = 6.7;
 $nilaiBahasaIndonesia = 9.3;
@@ -29,6 +31,9 @@ echo"Rata-rata: {$rataRata} <br>";
 
 var_dump($rataRata);
 
+/*
+Mengimplementasikan tipe data boolean pada siswa
+ */
 $apakahSiswaLulus = true;
 $apakahSiswaSudahUjian = false;
 
@@ -36,6 +41,9 @@ var_dump($apakahSiswaLulus);
 echo "<br>";
 var_dump($apakahSiswaSudahUjian)
 
+/*
+Menambahkan data siswa
+ */
 $namaDepan ="Ibnu";
 $namaBelakang = 'jakarta';
 
@@ -46,7 +54,9 @@ echo "Nama Depan: {$namaDepan} <br>";
 echo 'Nama  Belakang: '. $namaBelakang . '<br>';
 
 echo $namaLengkap;
-
+/*
+Menambahkan beberapa data mahasiswa di dalam list mahasiswa
+*/
 $listMahasiswa = ["Wahid Abdullah", "Elmo Bachtiar", "Lendis fabri"];
 echo $listMahasiswa[0];
 ?>
