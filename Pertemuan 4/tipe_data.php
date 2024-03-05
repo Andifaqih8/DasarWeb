@@ -44,7 +44,7 @@ var_dump($apakahSiswaSudahUjian)
 /*
 Menambahkan data siswa
  */
-$namaDepan ="Ibnu";
+$namaDepan = "Ibnu";
 $namaBelakang = 'jakarta';
 
 $namaLengkap = "{$namaDepan} {$namaBelakang}";
