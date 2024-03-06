@@ -59,4 +59,5 @@ Menambahkan beberapa data mahasiswa di dalam list mahasiswa
 */
 $listMahasiswa = ["Wahid Abdullah", "Elmo Bachtiar", "Lendis fabri"];
 echo $listMahasiswa[0];
+
 ?>
