@@ -11,6 +11,7 @@ echo "<p>" . strtoupper($loremIpsum) . "</p>";
 echo "<p>" . strtolower($loremIpsum) . "</p>";
 
 /** Soal 9
- * -	Fungsi strlen() berfungsi mengembalikan jumlah karakter, fungsi str_wor_count() menghitung jumlah kata, fungsi strtoupper() berfungsi untuk mengubah menjadi huruf kapital, dan fungsi strtolower() untuk mengubah karakter menjadi huruf kecil
+ * -	Fungsi strlen() berfungsi mengembalikan jumlah karakter, fungsi str_wor_count() menghitung jumlah kata, 
+ * fungsi strtoupper() berfungsi untuk mengubah menjadi huruf kapital, dan fungsi strtolower() untuk mengubah karakter menjadi huruf kecil
  */
 ?>
